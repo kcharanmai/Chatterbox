@@ -8,5 +8,5 @@ script.js: The JavaScript file containing the client-side logic and WebSocket co
 server.js: The Node.js server file responsible for handling user authentication and WebSocket connections.
 package.json: The npm package file that lists the application's dependencies and scripts.
 socket.io: "^4.1.2" - Library for real-time, bidirectional communication between the server and clients.
-Install the required dependencies: npm install and open your web browser and navigate to http://localhost:3000 to access the ChatterBox application.
+Install the required dependencies: npm install and open your web browser and navigate to http://localhost:1700 to access the ChatterBox application.
 
